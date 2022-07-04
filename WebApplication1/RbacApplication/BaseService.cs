@@ -28,7 +28,7 @@ namespace RbacApplication
         /// <returns></returns>
         public int Add(TDto dto)
         {
-            return baseService.Add(mapper.Map<T>(dto));
+            return baseService.Create(mapper.Map<T>(dto));
         }
         /// <summary>
         /// 删除

@@ -12,7 +12,7 @@ namespace RbacRepository
         where T:class
         where TKey : struct
     {
-        int Add(T list);
+        int Create(T list);
         int Del(TKey k);
         List<T> GetAll();
         shuju GetFen(TiaoJian j);
@@ -20,6 +20,5 @@ namespace RbacRepository
         int Upd(T t);
         T GetEntity(Expression<Func<T, bool>> predicate);
         T GetEntity(TKey key);
-        int Create(T entity);
     }
 }

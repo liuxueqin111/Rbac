@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e4yMj5DUoFMKBZhfowH5KEBY/36H3GyqY9u5yliaWeMKWb/vaGJBc4hkzl8HOGN7G/7ARUSder/e0e85xETmzw==",
+  "dgSpecHash": "1W/ldQlSJnMK5ZNd5Nt9iwj3Y6EN0Mf5vpv4OnXFiOazitMlutuoQPYOlt4yv6E18zewmZ+Hu+rV38peC8Hsuw==",
   "success": true,
-  "projectFilePath": "E:\\物联网工程\\专高六资料\\作业\\6.24作业\\WebApplication1\\RbacApplication\\RbacApplication.csproj",
+  "projectFilePath": "E:\\物联网工程\\专高六资料\\作业\\Rbac\\WebApplication1\\RbacApplication\\RbacApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

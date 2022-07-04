@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using ClassLibraryEF;
@@ -18,7 +19,7 @@ namespace RbacRepository
         /// </summary>
         /// <param name="list"></param>
         /// <returns></returns>
-        public virtual int Add(T list)
+        public virtual int Create(T list)
         {
             db.Set<T>().Add(list);
             return db.SaveChanges();
@@ -76,6 +77,24 @@ namespace RbacRepository
         {
             db.Entry<T>(t).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
             return db.SaveChanges();
+        }
+
+        /// <summary>
+        /// 返回单件数据
+        /// </summary>
+        /// <returns></returns>
+        public virtual T GetEntity(TKey key)
+        {
+            return db.Set<T>().Find(key);
+        }
+
+        /// <summary>
+        /// 返回单件数据
+        /// </summary>
+        /// <returns></returns>
+        public virtual T GetEntity(Expression<Func<T, bool>> predicate)
+        {
+            return db.Set<T>().Where(predicate).FirstOrDefault();
         }
     }
 }

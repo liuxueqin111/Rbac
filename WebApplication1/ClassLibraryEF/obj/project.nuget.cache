@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+VIOjKeIUcyZbVPB9qSwSoNHq3i94+gNRuxV4Sl5jAaapv6ijNfBvFrik1R2GnmJTiijCXKNJMpvXHYnb04B5A==",
+  "dgSpecHash": "kZUmAKVbZSyIhpjbcomTI3Vhxstxi8O1dpfaiCzHrE7e1yjHuWAO+8Pa88TT/vyutXyTeZzAVjuXGN7dMNWkQA==",
   "success": true,
-  "projectFilePath": "E:\\物联网工程\\专高六资料\\作业\\6.24作业\\WebApplication1\\ClassLibraryEF\\ClassLibraryEF.csproj",
+  "projectFilePath": "E:\\物联网工程\\专高六资料\\作业\\Rbac\\WebApplication1\\ClassLibraryEF\\ClassLibraryEF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

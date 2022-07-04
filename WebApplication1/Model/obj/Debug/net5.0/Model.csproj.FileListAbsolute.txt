@@ -34,3 +34,15 @@ D:\专高六\课堂代码\WebApplication1\Model\obj\Debug\net5.0\Model.dll
 D:\专高六\课堂代码\WebApplication1\Model\obj\Debug\net5.0\refint\Model.dll
 D:\专高六\课堂代码\WebApplication1\Model\obj\Debug\net5.0\Model.pdb
 D:\专高六\课堂代码\WebApplication1\Model\obj\Debug\net5.0\ref\Model.dll
+E:\物联网工程\专高六资料\作业\Rbac\WebApplication1\Model\bin\Debug\net5.0\Model.deps.json
+E:\物联网工程\专高六资料\作业\Rbac\WebApplication1\Model\bin\Debug\net5.0\Model.dll
+E:\物联网工程\专高六资料\作业\Rbac\WebApplication1\Model\bin\Debug\net5.0\Model.pdb
+E:\物联网工程\专高六资料\作业\Rbac\WebApplication1\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+E:\物联网工程\专高六资料\作业\Rbac\WebApplication1\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\物联网工程\专高六资料\作业\Rbac\WebApplication1\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+E:\物联网工程\专高六资料\作业\Rbac\WebApplication1\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+E:\物联网工程\专高六资料\作业\Rbac\WebApplication1\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+E:\物联网工程\专高六资料\作业\Rbac\WebApplication1\Model\obj\Debug\net5.0\Model.dll
+E:\物联网工程\专高六资料\作业\Rbac\WebApplication1\Model\obj\Debug\net5.0\refint\Model.dll
+E:\物联网工程\专高六资料\作业\Rbac\WebApplication1\Model\obj\Debug\net5.0\Model.pdb
+E:\物联网工程\专高六资料\作业\Rbac\WebApplication1\Model\obj\Debug\net5.0\ref\Model.dll

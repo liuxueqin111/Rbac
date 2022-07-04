@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qqe+LPbGqlmmfIWG2oQO65S91zg3K/Ww+BlEnWu6rwFIAe7Qoa9s/EynsOVLqCKOuD3fGB5HSfyfE+f4sD9dhQ==",
+  "dgSpecHash": "dd+7cf57IQsYKYrVlQiXHbmaqDpZ5E0S69RdHmA2bluIPTJZosowXv2A0qolkQiD4rTfTNcQzZo6tq2S3/cC1w==",
   "success": true,
-  "projectFilePath": "E:\\物联网工程\\专高六资料\\作业\\6.24作业\\WebApplication1\\Model\\Model.csproj",
+  "projectFilePath": "E:\\物联网工程\\专高六资料\\作业\\Rbac\\WebApplication1\\Model\\Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

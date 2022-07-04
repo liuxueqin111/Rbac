@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IjAhrIZpERA9+mQ3GMFLiWiYFAJ62NIMrc+aYUVa4oPHDEKqHamlT+ewDdFZdpULTK+zjydVtcdLl1T2KNrqxA==",
+  "dgSpecHash": "NFWyvkYBOjHI+pwLQd7CJXOWmPVMbHT+mQxo0mHbw/nVRts89gPHEfO9Pig2Fg82qyaKQZeQIkbNCCRFB75OrA==",
   "success": true,
-  "projectFilePath": "E:\\物联网工程\\专高六资料\\作业\\6.24作业\\WebApplication1\\RbacRepository\\RbacRepository.csproj",
+  "projectFilePath": "E:\\物联网工程\\专高六资料\\作业\\Rbac\\WebApplication1\\RbacRepository\\RbacRepository.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

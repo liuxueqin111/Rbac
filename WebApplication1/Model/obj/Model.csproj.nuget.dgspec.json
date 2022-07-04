@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\物联网工程\\专高六资料\\作业\\6.24作业\\WebApplication1\\Model\\Model.csproj": {}
+    "E:\\物联网工程\\专高六资料\\作业\\Rbac\\WebApplication1\\Model\\Model.csproj": {}
   },
   "projects": {
-    "E:\\物联网工程\\专高六资料\\作业\\6.24作业\\WebApplication1\\Model\\Model.csproj": {
+    "E:\\物联网工程\\专高六资料\\作业\\Rbac\\WebApplication1\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\物联网工程\\专高六资料\\作业\\6.24作业\\WebApplication1\\Model\\Model.csproj",
+        "projectUniqueName": "E:\\物联网工程\\专高六资料\\作业\\Rbac\\WebApplication1\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "E:\\物联网工程\\专高六资料\\作业\\6.24作业\\WebApplication1\\Model\\Model.csproj",
+        "projectPath": "E:\\物联网工程\\专高六资料\\作业\\Rbac\\WebApplication1\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "E:\\物联网工程\\专高六资料\\作业\\6.24作业\\WebApplication1\\Model\\obj\\",
+        "outputPath": "E:\\物联网工程\\专高六资料\\作业\\Rbac\\WebApplication1\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
