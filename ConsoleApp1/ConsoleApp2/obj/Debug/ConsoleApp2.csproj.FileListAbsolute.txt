@@ -1,0 +1,8 @@
+E:\物联网工程\专高六资料\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\物联网工程\专高六资料\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\物联网工程\专高六资料\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\物联网工程\专高六资料\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+E:\物联网工程\专高六资料\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+E:\物联网工程\专高六资料\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\物联网工程\专高六资料\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\物联网工程\专高六资料\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

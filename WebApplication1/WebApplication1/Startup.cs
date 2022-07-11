@@ -14,6 +14,7 @@ using Microsoft.OpenApi.Models;
 using RbacApplication;
 using RbacApplication.Role;
 using RbacRepository;
+using RbacRepository.MenuRoles;
 using Swashbuckle.AspNetCore.Filters;
 using System;
 using System.Collections.Generic;
@@ -46,6 +47,7 @@ namespace WebApplication1
             services.AddScoped<Iapplication, Application>();
             services.AddScoped<IRoleDto, RbacRepository.Role.RoleDto>();
             services.AddScoped<IRoleService, RoleService>();
+           
 
             services.AddAuthentication(option =>
             {
